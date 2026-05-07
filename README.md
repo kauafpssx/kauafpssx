@@ -66,8 +66,8 @@ SQLite
 </td>
 
 <td align="center" width="10%">
-<img src="https://raw.githubusercontent.com/zKauaFerreira/zKauaFerreira/refs/heads/main/assets/svelte-ffffff.svg" width="58"><br>
-Svelte
+<img src="https://raw.githubusercontent.com/zKauaFerreira/zKauaFerreira/refs/heads/main/assets/nextdotjs-ffffff.svg" width="58"><br>
+Next.js
 </td>
 
 <td align="center" width="10%">
