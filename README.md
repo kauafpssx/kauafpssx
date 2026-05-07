@@ -41,52 +41,52 @@ status:          Building performant and scalable systems
 <tr>
 
 <td align="center" width="10%">
-<img src="https://raw.githubusercontent.com/zKauaFerreira/zKauaFerreira/refs/heads/main/assets/nodedotjs-ffffff.svg" width="58"><br><br>
+<img src="https://raw.githubusercontent.com/zKauaFerreira/zKauaFerreira/refs/heads/main/assets/nodedotjs-ffffff.svg" width="58"><br>
 Node.js
 </td>
 
 <td align="center" width="10%">
-<img src="https://raw.githubusercontent.com/zKauaFerreira/zKauaFerreira/refs/heads/main/assets/python-ffffff.svg" width="58"><br><br>
+<img src="https://raw.githubusercontent.com/zKauaFerreira/zKauaFerreira/refs/heads/main/assets/python-ffffff.svg" width="58"><br>
 Python
 </td>
 
 <td align="center" width="10%">
-<img src="https://raw.githubusercontent.com/zKauaFerreira/zKauaFerreira/refs/heads/main/assets/react-ffffff.svg" width="58"><br><br>
+<img src="https://raw.githubusercontent.com/zKauaFerreira/zKauaFerreira/refs/heads/main/assets/react-ffffff.svg" width="58"><br>
 React
 </td>
 
 <td align="center" width="10%">
-<img src="https://raw.githubusercontent.com/zKauaFerreira/zKauaFerreira/refs/heads/main/assets/rust-ffffff.svg" width="58"><br><br>
+<img src="https://raw.githubusercontent.com/zKauaFerreira/zKauaFerreira/refs/heads/main/assets/rust-ffffff.svg" width="58"><br>
 Rust
 </td>
 
 <td align="center" width="10%">
-<img src="https://raw.githubusercontent.com/zKauaFerreira/zKauaFerreira/refs/heads/main/assets/sqlite-ffffff.svg" width="58"><br><br>
+<img src="https://raw.githubusercontent.com/zKauaFerreira/zKauaFerreira/refs/heads/main/assets/sqlite-ffffff.svg" width="58"><br>
 SQLite
 </td>
 
 <td align="center" width="10%">
-<img src="https://raw.githubusercontent.com/zKauaFerreira/zKauaFerreira/refs/heads/main/assets/svelte-ffffff.svg" width="58"><br><br>
+<img src="https://raw.githubusercontent.com/zKauaFerreira/zKauaFerreira/refs/heads/main/assets/svelte-ffffff.svg" width="58"><br>
 Svelte
 </td>
 
 <td align="center" width="10%">
-<img src="https://raw.githubusercontent.com/zKauaFerreira/zKauaFerreira/refs/heads/main/assets/tailwindcss-ffffff.svg" width="58"><br><br>
+<img src="https://raw.githubusercontent.com/zKauaFerreira/zKauaFerreira/refs/heads/main/assets/tailwindcss-ffffff.svg" width="58"><br>
 Tailwind
 </td>
 
 <td align="center" width="10%">
-<img src="https://raw.githubusercontent.com/zKauaFerreira/zKauaFerreira/refs/heads/main/assets/tauri-ffffff.svg" width="58"><br><br>
+<img src="https://raw.githubusercontent.com/zKauaFerreira/zKauaFerreira/refs/heads/main/assets/tauri-ffffff.svg" width="58"><br>
 Tauri
 </td>
 
 <td align="center" width="10%">
-<img src="https://raw.githubusercontent.com/zKauaFerreira/zKauaFerreira/refs/heads/main/assets/typescript-ffffff.svg" width="58"><br><br>
+<img src="https://raw.githubusercontent.com/zKauaFerreira/zKauaFerreira/refs/heads/main/assets/typescript-ffffff.svg" width="58"><br>
 TypeScript
 </td>
 
 <td align="center" width="10%">
-<img src="https://raw.githubusercontent.com/zKauaFerreira/zKauaFerreira/refs/heads/main/assets/vite-ffffff.svg" width="58"><br><br>
+<img src="https://raw.githubusercontent.com/zKauaFerreira/zKauaFerreira/refs/heads/main/assets/vite-ffffff.svg" width="58"><br>
 Vite
 </td>
 
