@@ -35,7 +35,7 @@ status:          Building performant and scalable systems
 
 ---
 
-# ⚡ MAIN STACK
+# ⚙ MAIN STACK
 
 <table width="100%" style="table-layout: fixed;">
 <tr>
@@ -95,7 +95,7 @@ Vite
 
 ---
 
-# 📈 ACTIVITY GRAPH
+# ⌘ ACTIVITY GRAPH
 
 <div align="center">
 
@@ -105,7 +105,7 @@ Vite
 
 ---
 
-# 🏆 TROPHIES
+# ◈ TROPHIES
 
 <div align="center">
 
@@ -115,7 +115,7 @@ Vite
 
 ---
 
-# 🎧 SPOTIFY
+# ◉ SPOTIFY
 
 <div align="center">
 
@@ -127,7 +127,7 @@ Vite
 
 ---
 
-# 🔗 CONTACT
+# ✦ CONTACT
 
 <div align="center">
 
