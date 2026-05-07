@@ -35,7 +35,7 @@ status:          Building performant and scalable systems
 
 ---
 
-# MAIN STACK
+# ⚡ MAIN STACK
 
 <table width="100%" style="table-layout: fixed;">
 <tr>
@@ -95,7 +95,7 @@ Vite
 
 ---
 
-# ACTIVITY GRAPH
+# 📈 ACTIVITY GRAPH
 
 <div align="center">
 
@@ -105,7 +105,7 @@ Vite
 
 ---
 
-# TROPHIES
+# 🏆 TROPHIES
 
 <div align="center">
 
@@ -115,7 +115,7 @@ Vite
 
 ---
 
-# SPOTIFY
+# 🎧 SPOTIFY
 
 <div align="center">
 
@@ -127,7 +127,7 @@ Vite
 
 ---
 
-# CONTACT
+# 🔗 CONTACT
 
 <div align="center">
 
@@ -164,11 +164,12 @@ Vite
 </div>
 
 ---
-
 <div align="center">
 
-```txt
-Knowledge grows when curiosity meets persistence.
-```
+ᚷᛟᚱ_ᚾᛖᚲᛋ://
+$${\color{grey}Y}$$̸i̷e̴l̶d̷i̴n̸g̷,
+$${\color{grey}B}$$̷e̸t̴t̶e̷r̴,
+$${\color{grey}A}$$̸l̴g̶o̷r̴i̷t̴h̶m̴s̸,
+$${\color{grey}G}$$̸r̴a̶d̷u̴a̸l̶l̷y̴ ♡
 
 </div>
