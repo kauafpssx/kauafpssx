@@ -1,196 +1,179 @@
-<h1 align="center" style="color:#9b59b6;">💻 Hello, I'm Kauã! 🚀</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&random=true&color=26C9FC&center=true&vCenter=true&width=600&height=80&lines=Tech+enthusiast+💡;DevOps+passionate+⚙️;Automating+solutions+🤖;Solving+new+challenges+💥;Building+impactful+projects+🚀;Learning+every+day+📚;Innovation+is+key+🔑;Striving+for+efficiency+⚡;Focused+on+growth+🌱;Collaborating+is+crucial+🤝;Exploring+new+technologies+🌍;Coding+is+my+passion+💻;Creating+future+solutions+🔮;Driven+by+curiosity+❓;Empowering+teams+with+tools+🛠️;Optimizing+workflows+🔧;Shaping+digital+futures+🌐;Passionate+about+automation+⚡;Dedicated+to+quality+⭐;Exploring+new+languages+🗣️;Creating+cutting-edge+tools+🔨;Pushing+limits+every+day+🔥;Building+better+systems+🏗️;Transforming+ideas+into+code+💡;Coding+with+purpose+🎯;Tackling+big+challenges+💪;Learning+from+failure+💭;Adapting+to+change+🔄;Empowering+innovation+💡;Reaching+for+the+stars+🌟;Breaking+new+barriers+🚀;" alt="Typing SVG">
+  <img src="https://raw.githubusercontent.com/zKauaFerreira/zKauaFerreira/refs/heads/main/assets/sukuna.jpg" width="100%" />
 </p>
 
-
-
-
-
-
-
-<h2 align="center" style="color:#8e44ad;">📜 Sobre Mim</h2>
-<p align="center">
-  <img src="https://cdn-icons-png.flaticon.com/512/3135/3135715.png" width="100" height="100" alt="Sobre Mim Icon">
-</p>
-
-<p align="center" style="font-size:18px; color:#bdc3c7;">
-  👋 Olá! Eu sou o <b>Kauã Ferreira</b>, um entusiasta de <strong>tecnologia</strong> e <strong>infraestrutura</strong>. Meu trabalho gira em torno de <strong>código</strong>, <strong>automação</strong> e <strong>inovação</strong>. Adoro explorar novas <strong>ferramentas</strong> e <strong>metodologias</strong> para otimizar processos e resolver problemas. Estou sempre em busca de <strong>desafios</strong> para expandir meus conhecimentos e aprimorar minhas habilidades. Valorizo a <strong>colaboração</strong> e a troca de experiências. Meu objetivo é <strong>transformar<strong> ideias em <strong>soluções escaláveis</strong> que impactem positivamente o mundo da tecnologia!
-
-
-
-
-</p>
-
----
-
-<h2 align="center" style="color:#16a085;">💻 Minhas Habilidades Atuais</h2>
 <div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <img src="https://skillicons.dev/icons?i=python" width="50" alt="Python Icon"><br>
-        <strong>Python</strong>
-      </td>
-      <td align="center">
-        <img src="https://skillicons.dev/icons?i=html" width="50" alt="HTML Icon"><br>
-        <strong>HTML</strong>
-      </td>
-      <td align="center">
-        <img src="https://skillicons.dev/icons?i=css" width="50" alt="CSS Icon"><br>
-        <strong>CSS</strong>
-      </td>
-      <td align="center">
-        <img src="https://skillicons.dev/icons?i=js" width="50" alt="JavaScript Icon"><br>
-        <strong>JavaScript</strong>
-      </td>
-      <td align="center">
-        <img src="https://skillicons.dev/icons?i=docker" width="50" alt="Docker Icon"><br>
-        <strong>Docker</strong>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <img src="https://skillicons.dev/icons?i=linux" width="50" alt="Linux Icon"><br>
-        <strong>Linux</strong>
-      </td>
-      <td align="center">
-        <img src="https://skillicons.dev/icons?i=windows" width="50" alt="Windows Icon"><br>
-        <strong>Windows</strong>
-      </td>
-      <td align="center">
-        <img src="https://skillicons.dev/icons?i=nodejs" width="50" alt="Node.js Icon"><br>
-        <strong>Node.js</strong>
-      </td>
-      <td align="center">
-        <img src="https://skillicons.dev/icons?i=powershell" width="50" alt="Shell Script Icon"><br>
-        <strong>Shell Script</strong>
-      </td>
-      <td align="center">
-        <img src="https://skillicons.dev/icons?i=bash" width="50" alt="Batch Icon"><br>
-        <strong>Bash</strong>
-      </td>
-    </tr>
-  </table>
+
+# Kauã Ferreira
+
+<img src="https://komarev.com/ghpvc/?username=zKauaFerreira&label=views&style=flat&color=000000&labelColor=000000" />
+
+<br>
+
+<h2><i>“Holding your heads a little high, don't you think?”</i></h2>
+
+### — $${\color{red}\textsf{Ryomen\ Sukuna}}$$
+
 </div>
-<p align="center" style="color:#bdc3c7; font-size:16px;">
-  <em>🚀 Construindo um profissional, explorando ferramentas para criar soluções eficientes! 💡</em>
-</p>
 
+<br>
 
----
+```txt
+kaua@github:~$ cat whoami.txt
 
-<h2 align="center" style="color:#16a085;">🚀 Tecnologias que Quero Aprender</h2>
-<div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <img src="https://skillicons.dev/icons?i=lua" width="50" alt="Lua Icon"><br>
-        <strong>Lua</strong>
-      </td>
-      <td align="center">
-        <img src="https://skillicons.dev/icons?i=cpp" width="50" alt="C++ Icon"><br>
-        <strong>C++</strong>
-      </td>
-      <td align="center">
-        <img src="https://skillicons.dev/icons?i=cs" width="50" alt="C# Icon"><br>
-        <strong>C#</strong>
-      </td>
-      <td align="center">
-        <img src="https://skillicons.dev/icons?i=react" width="50" alt="React Icon"><br>
-        <strong>React</strong>
-      </td>
-      <td align="center">
-        <img src="https://skillicons.dev/icons?i=tailwind" width="50" alt="Tailwind CSS Icon"><br>
-        <strong>Tailwind</strong>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <img src="https://skillicons.dev/icons?i=rust" width="50" alt="Rust Icon"><br>
-        <strong>Rust</strong>
-      </td>
-      <td align="center">
-        <img src="https://skillicons.dev/icons?i=raspberrypi" width="50" alt="Raspberry Pi Icon"><br>
-        <strong>Raspberry Pi</strong>
-      </td>
-      <td align="center">
-        <img src="https://skillicons.dev/icons?i=java" width="50" alt="Elixir Icon"><br>
-        <strong>Java</strong>
-      </td>
-      <td align="center">
-        <img src="https://skillicons.dev/icons?i=cmake" width="50" alt="CMake Icon"><br>
-        <strong>CMake</strong>
-      </td>
-      <td align="center">
-        <img src="https://skillicons.dev/icons?i=figma" width="50" alt="Figma Icon"><br>
-        <strong>Figma</strong>
-      </td>
-    </tr>
-  </table>
-</div>
-<p align="center" style="color:#bdc3c7; font-size:16px;">
-  <em>🔥 No futuro, vou me aprofundar nessas tecnologias para criar soluções ainda mais inovadoras! 💥</em>
-</p>
-
-
+name:            Kauã Ferreira
+role:            Infrastructure & Automation
+location:        Porto Alegre, RS, Brazil
+age:             18 years
+system:          Windows / Linux
+best_work_hour:  Late night GMT-3
+workflow:        CLI-first
+focus:           automation, desktop applications, infrastructure, scraping, tooling
+stack:           Rust, Tauri, React, TypeScript, Python
+status:          Building performant and scalable systems
+```
 
 ---
 
-<h2 align="center" style="color:#8e44ad;">📊 Estatísticas</h2>
+# MAIN STACK
+
+<table width="100%" style="table-layout: fixed;">
+<tr>
+
+<td align="center" width="9.09%">
+<img src="https://raw.githubusercontent.com/zKauaFerreira/zKauaFerreira/refs/heads/main/assets/nodedotjs-ffffff.svg" width="58"><br><br>
+Node.js
+</td>
+
+<td align="center" width="9.09%">
+<img src="https://raw.githubusercontent.com/zKauaFerreira/zKauaFerreira/refs/heads/main/assets/python-ffffff.svg" width="58"><br><br>
+Python
+</td>
+
+<td align="center" width="9.09%">
+<img src="https://raw.githubusercontent.com/zKauaFerreira/zKauaFerreira/refs/heads/main/assets/react-ffffff.svg" width="58"><br><br>
+React
+</td>
+
+<td align="center" width="9.09%">
+<img src="https://raw.githubusercontent.com/zKauaFerreira/zKauaFerreira/refs/heads/main/assets/rust-ffffff.svg" width="58"><br><br>
+Rust
+</td>
+
+<td align="center" width="9.09%">
+<img src="https://raw.githubusercontent.com/zKauaFerreira/zKauaFerreira/refs/heads/main/assets/shadcnui-ffffff.svg" width="58"><br><br>
+shadcn/ui
+</td>
+
+<td align="center" width="9.09%">
+<img src="https://raw.githubusercontent.com/zKauaFerreira/zKauaFerreira/refs/heads/main/assets/sqlite-ffffff.svg" width="58"><br><br>
+SQLite
+</td>
+
+<td align="center" width="9.09%">
+<img src="https://raw.githubusercontent.com/zKauaFerreira/zKauaFerreira/refs/heads/main/assets/svelte-ffffff.svg" width="58"><br><br>
+Svelte
+</td>
+
+<td align="center" width="9.09%">
+<img src="https://raw.githubusercontent.com/zKauaFerreira/zKauaFerreira/refs/heads/main/assets/tailwindcss-ffffff.svg" width="58"><br><br>
+Tailwind
+</td>
+
+<td align="center" width="9.09%">
+<img src="https://raw.githubusercontent.com/zKauaFerreira/zKauaFerreira/refs/heads/main/assets/tauri-ffffff.svg" width="58"><br><br>
+Tauri
+</td>
+
+<td align="center" width="9.09%">
+<img src="https://raw.githubusercontent.com/zKauaFerreira/zKauaFerreira/refs/heads/main/assets/typescript-ffffff.svg" width="58"><br><br>
+TypeScript
+</td>
+
+<td align="center" width="9.09%">
+<img src="https://raw.githubusercontent.com/zKauaFerreira/zKauaFerreira/refs/heads/main/assets/vite-ffffff.svg" width="58"><br><br>
+Vite
+</td>
+
+</tr>
+</table>
+
+---
+
+# ACTIVITY GRAPH
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zKauaFerreira&show_icons=true&bg_color=0D1117&title_color=9b59b6&text_color=bdc3c7&icon_color=e91e63&border_radius=10&hide_border=true" alt="GitHub Stats" width="48%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zKauaFerreira&layout=compact&bg_color=0D1117&title_color=9b59b6&text_color=bdc3c7&border_radius=10&hide_border=true" alt="Top Languages" width="48%">
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=zKauaFerreira&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&area_color=000000&hide_border=false&border_color=ffffff" />
+
 </div>
 
 ---
 
-<h2 align="center" style="color:#8e44ad;">🌟 Meus Destaques</h2>
+# TROPHIES
+
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=zKauaFerreira&theme=algolia&no-frame=true&row=1&column=6" alt="Troféus do GitHub">
+
+<img width="100%" src="https://github-profile-trophy.vercel.app/?username=zKauaFerreira&theme=oldie&no-frame=true&no-bg=true&margin-w=10&margin-h=10&row=1&column=6" />
+
 </div>
 
 ---
 
-<h2 align="center" style="color:#8e44ad;">📫 Vamos nos Conectar</h2>
+# SPOTIFY
+
 <div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <a href="mailto:kauaff3@gmail.com" target="_blank" style="text-decoration: none; margin: 0 20px;">
-          <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="60" alt="Email" style="border: 3px solid #9b59b6; border-radius: 50%; padding: 10px; transition: transform 0.3s ease;">
-        </a>
-        <br>
-        <span style="color:#bdc3c7;">Email</span>
-      </td>
-      <td align="center">
-        <a href="https://github.com/zKauaFerreira" target="_blank" style="text-decoration: none; margin: 0 20px;">
-          <img src="https://cdn-icons-png.flaticon.com/512/733/733553.png" width="60" alt="GitHub" style="border: 3px solid #9b59b6; border-radius: 50%; padding: 10px; transition: transform 0.3s ease;">
-        </a>
-        <br>
-        <span style="color:#bdc3c7;">GitHub</span>
-      </td>
-    </tr>
-  </table>
+
+<a href="https://github.com/kittinan/spotify-github-profile">
+  <img width="100%" src="https://spotify-github-profile.kittinanx.com/api/view?uid=31scwkunndnrq5zjyrh37mph6myi&cover_image=true&theme=spotify-embed&show_offline=false&background_color=000000&interchange=false&profanity=false&mode=dark&bar_color=ffffff&bar_color_cover=true" />
+</a>
+
 </div>
 
-
 ---
-<h2 align="center" style="color:#8e44ad; font-family: 'Fira Code', monospace; font-size: 2.5em; border-bottom: 3px solid #9b59b6; padding-bottom: 10px;">🎮 Curiosidades</h2>
-<p align="center" style="font-size: 20px; color:#bdc3c7; line-height: 1.8; letter-spacing: 0.5px; font-family: 'Roboto', sans-serif;">
-  <span style="color:#9b59b6;">🌌</span> Sou apaixonado por <strong>automação</strong> e <strong>infraestrutura</strong>.<br>
-  <span style="color:#9b59b6;">🕹️</span> Adoro explorar <strong>games</strong> e criar mods com <strong>Lua</strong> e <strong>Java<strong>.<br>
-  <span style="color:#9b59b6;">🛠️</span> Gosto de aprender e explorar novas <strong>tecnologias</strong>.<br>
-  <span style="color:#9b59b6;">🚀</span> Estou sempre em busca de <strong>desafios</strong> e crescimento.<br>
-  <span style="color:#9b59b6;">⚙️</span> Curto automação e a criação de <strong>soluções</strong> inovadoras.<br>
-  <span style="color:#9b59b6;">💥</span> Acredito que a colaboração é a chave para o <strong>sucesso</strong>.<br>
-  <span style="color:#9b59b6;">🔧</span> Me divirto com a construção de <strong>ferramentas</strong> e scripts.<br>
-</p>
+
+# CONTACT
+
+<div align="center">
+
+<table width="100%">
+<tr>
+
+<td width="33%" align="left">
+
+<a href="mailto:kauaff3@gmail.com">
+  <img src="https://raw.githubusercontent.com/zKauaFerreira/zKauaFerreira/refs/heads/main/assets/gmail-ffffff.svg" width="48">
+</a>
+
+</td>
+
+<td width="33%" align="center">
+
+<a href="https://github.com/zKauaFerreira">
+  <img src="https://raw.githubusercontent.com/zKauaFerreira/zKauaFerreira/refs/heads/main/assets/github-ffffff.svg" width="48">
+</a>
+
+</td>
+
+<td width="33%" align="right">
+
+<a href="https://instagram.com/kauafpss_">
+  <img src="https://raw.githubusercontent.com/zKauaFerreira/zKauaFerreira/refs/heads/main/assets/instagram-ffffff.svg" width="48">
+</a>
+
+</td>
+
+</tr>
+</table>
+
+</div>
 
 ---
 
 <div align="center">
-  <p style="font-size: 28px; color:#9b59b6; font-weight: bold; padding: 20px 10px; border-radius: 10px; background: linear-gradient(to right, #9b59b6, #8e44ad); box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);">
-    ✨ "𝔎𝔫𝔬𝔴𝔩𝔢𝔡𝔤𝔢 𝔤𝔯𝔬𝔴𝔰 𝔴𝔥𝔢𝔫 𝔴𝔢 𝔥𝔞𝔳𝔢 𝔱𝔥𝔢 𝔠𝔬𝔲𝔯𝔞𝔤𝔢 𝔱𝔬 𝔮𝔲𝔢𝔰𝔱𝔦𝔬𝔫 𝔞𝔫𝔡 𝔢𝔵𝔭𝔩𝔬𝔯𝔢." 🌱
-  </p>
+
+```txt
+Knowledge grows when curiosity meets persistence.
+```
+
 </div>
