@@ -40,57 +40,52 @@ status:          Building performant and scalable systems
 <table width="100%" style="table-layout: fixed;">
 <tr>
 
-<td align="center" width="9.09%">
+<td align="center" width="10%">
 <img src="https://raw.githubusercontent.com/zKauaFerreira/zKauaFerreira/refs/heads/main/assets/nodedotjs-ffffff.svg" width="58"><br><br>
 Node.js
 </td>
 
-<td align="center" width="9.09%">
+<td align="center" width="10%">
 <img src="https://raw.githubusercontent.com/zKauaFerreira/zKauaFerreira/refs/heads/main/assets/python-ffffff.svg" width="58"><br><br>
 Python
 </td>
 
-<td align="center" width="9.09%">
+<td align="center" width="10%">
 <img src="https://raw.githubusercontent.com/zKauaFerreira/zKauaFerreira/refs/heads/main/assets/react-ffffff.svg" width="58"><br><br>
 React
 </td>
 
-<td align="center" width="9.09%">
+<td align="center" width="10%">
 <img src="https://raw.githubusercontent.com/zKauaFerreira/zKauaFerreira/refs/heads/main/assets/rust-ffffff.svg" width="58"><br><br>
 Rust
 </td>
 
-<td align="center" width="9.09%">
-<img src="https://raw.githubusercontent.com/zKauaFerreira/zKauaFerreira/refs/heads/main/assets/shadcnui-ffffff.svg" width="58"><br><br>
-shadcn/ui
-</td>
-
-<td align="center" width="9.09%">
+<td align="center" width="10%">
 <img src="https://raw.githubusercontent.com/zKauaFerreira/zKauaFerreira/refs/heads/main/assets/sqlite-ffffff.svg" width="58"><br><br>
 SQLite
 </td>
 
-<td align="center" width="9.09%">
+<td align="center" width="10%">
 <img src="https://raw.githubusercontent.com/zKauaFerreira/zKauaFerreira/refs/heads/main/assets/svelte-ffffff.svg" width="58"><br><br>
 Svelte
 </td>
 
-<td align="center" width="9.09%">
+<td align="center" width="10%">
 <img src="https://raw.githubusercontent.com/zKauaFerreira/zKauaFerreira/refs/heads/main/assets/tailwindcss-ffffff.svg" width="58"><br><br>
 Tailwind
 </td>
 
-<td align="center" width="9.09%">
+<td align="center" width="10%">
 <img src="https://raw.githubusercontent.com/zKauaFerreira/zKauaFerreira/refs/heads/main/assets/tauri-ffffff.svg" width="58"><br><br>
 Tauri
 </td>
 
-<td align="center" width="9.09%">
+<td align="center" width="10%">
 <img src="https://raw.githubusercontent.com/zKauaFerreira/zKauaFerreira/refs/heads/main/assets/typescript-ffffff.svg" width="58"><br><br>
 TypeScript
 </td>
 
-<td align="center" width="9.09%">
+<td align="center" width="10%">
 <img src="https://raw.githubusercontent.com/zKauaFerreira/zKauaFerreira/refs/heads/main/assets/vite-ffffff.svg" width="58"><br><br>
 Vite
 </td>
