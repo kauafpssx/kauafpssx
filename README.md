@@ -35,7 +35,7 @@ status:          Building performant and scalable systems
 
 ---
 
-# ⚙ MAIN STACK
+# ⛯ MAIN STACK
 
 <table width="100%" style="table-layout: fixed;">
 <tr>
