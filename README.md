@@ -41,52 +41,52 @@ status:          Building performant and scalable systems
 <tr>
 
 <td align="center" width="10%">
-<img src="https://raw.githubusercontent.com/zKauaFerreira/zKauaFerreira/refs/heads/main/assets/nodedotjs-ffffff.svg" width="58"><br>
+<img src="https://raw.githubusercontent.com/zKauaFerreira/kauafpssx/refs/heads/main/assets/nodedotjs-ffffff.svg" width="58"><br>
 Node.js
 </td>
 
 <td align="center" width="10%">
-<img src="https://raw.githubusercontent.com/zKauaFerreira/zKauaFerreira/refs/heads/main/assets/python-ffffff.svg" width="58"><br>
+<img src="https://raw.githubusercontent.com/zKauaFerreira/kauafpssx/refs/heads/main/assets/python-ffffff.svg" width="58"><br>
 Python
 </td>
 
 <td align="center" width="10%">
-<img src="https://raw.githubusercontent.com/zKauaFerreira/zKauaFerreira/refs/heads/main/assets/react-ffffff.svg" width="58"><br>
+<img src="https://raw.githubusercontent.com/zKauaFerreira/kauafpssx/refs/heads/main/assets/react-ffffff.svg" width="58"><br>
 React
 </td>
 
 <td align="center" width="10%">
-<img src="https://raw.githubusercontent.com/zKauaFerreira/zKauaFerreira/refs/heads/main/assets/rust-ffffff.svg" width="58"><br>
+<img src="https://raw.githubusercontent.com/zKauaFerreira/kauafpssx/refs/heads/main/assets/rust-ffffff.svg" width="58"><br>
 Rust
 </td>
 
 <td align="center" width="10%">
-<img src="https://raw.githubusercontent.com/zKauaFerreira/zKauaFerreira/refs/heads/main/assets/sqlite-ffffff.svg" width="58"><br>
+<img src="https://raw.githubusercontent.com/zKauaFerreira/kauafpssx/refs/heads/main/assets/sqlite-ffffff.svg" width="58"><br>
 SQLite
 </td>
 
 <td align="center" width="10%">
-<img src="https://raw.githubusercontent.com/zKauaFerreira/zKauaFerreira/refs/heads/main/assets/nextdotjs-ffffff.svg" width="58"><br>
+<img src="https://raw.githubusercontent.com/zKauaFerreira/kauafpssx/refs/heads/main/assets/nextdotjs-ffffff.svg" width="58"><br>
 Next.js
 </td>
 
 <td align="center" width="10%">
-<img src="https://raw.githubusercontent.com/zKauaFerreira/zKauaFerreira/refs/heads/main/assets/tailwindcss-ffffff.svg" width="58"><br>
+<img src="https://raw.githubusercontent.com/zKauaFerreira/kauafpssx/refs/heads/main/assets/tailwindcss-ffffff.svg" width="58"><br>
 Tailwind
 </td>
 
 <td align="center" width="10%">
-<img src="https://raw.githubusercontent.com/zKauaFerreira/zKauaFerreira/refs/heads/main/assets/tauri-ffffff.svg" width="58"><br>
+<img src="https://raw.githubusercontent.com/zKauaFerreira/kauafpssx/refs/heads/main/assets/tauri-ffffff.svg" width="58"><br>
 Tauri
 </td>
 
 <td align="center" width="10%">
-<img src="https://raw.githubusercontent.com/zKauaFerreira/zKauaFerreira/refs/heads/main/assets/typescript-ffffff.svg" width="58"><br>
+<img src="https://raw.githubusercontent.com/zKauaFerreira/kauafpssx/refs/heads/main/assets/typescript-ffffff.svg" width="58"><br>
 TypeScript
 </td>
 
 <td align="center" width="10%">
-<img src="https://raw.githubusercontent.com/zKauaFerreira/zKauaFerreira/refs/heads/main/assets/vite-ffffff.svg" width="58"><br>
+<img src="https://raw.githubusercontent.com/zKauaFerreira/kauafpssx/refs/heads/main/assets/vite-ffffff.svg" width="58"><br>
 Vite
 </td>
 
@@ -99,7 +99,7 @@ Vite
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=zKauaFerreira&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&area_color=000000&hide_border=false&border_color=ffffff" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=kauafpssx&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&area_color=000000&hide_border=false&border_color=ffffff" />
 
 </div>
 
@@ -109,7 +109,7 @@ Vite
 
 <div align="center">
 
-<img width="100%" src="https://github-profile-trophy.vercel.app/?username=zKauaFerreira&theme=oldie&no-frame=true&no-bg=true&margin-w=10&margin-h=10&row=1&column=6" />
+<img width="100%" src="https://github-profile-trophy.vercel.app/?username=kauafpssx&theme=oldie&no-frame=true&no-bg=true&margin-w=10&margin-h=10&row=1&column=6" />
 
 </div>
 
@@ -137,15 +137,15 @@ Vite
 <td width="33%" align="left">
 
 <a href="mailto:kauaff3@gmail.com">
-  <img src="https://raw.githubusercontent.com/zKauaFerreira/zKauaFerreira/refs/heads/main/assets/gmail-ffffff.svg" width="48">
+  <img src="https://raw.githubusercontent.com/zKauaFerreira/kauafpssx/refs/heads/main/assets/gmail-ffffff.svg" width="48">
 </a>
 
 </td>
 
 <td width="33%" align="center">
 
-<a href="https://github.com/zKauaFerreira">
-  <img src="https://raw.githubusercontent.com/zKauaFerreira/zKauaFerreira/refs/heads/main/assets/github-ffffff.svg" width="48">
+<a href="https://github.com/kauafpssx">
+  <img src="https://raw.githubusercontent.com/kauafpssx/kauafpssx/refs/heads/main/assets/github-ffffff.svg" width="48">
 </a>
 
 </td>
@@ -153,7 +153,7 @@ Vite
 <td width="33%" align="right">
 
 <a href="https://instagram.com/kauafpss_">
-  <img src="https://raw.githubusercontent.com/zKauaFerreira/zKauaFerreira/refs/heads/main/assets/instagram-ffffff.svg" width="48">
+  <img src="https://raw.githubusercontent.com/kauafpssx/kauafpssx/refs/heads/main/assets/instagram-ffffff.svg" width="48">
 </a>
 
 </td>
