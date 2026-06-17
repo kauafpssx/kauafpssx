@@ -1,12 +1,12 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/zKauaFerreira/zKauaFerreira/refs/heads/main/assets/sukuna.jpg" width="100%" />
+  <img src="https://raw.githubusercontent.com/kauafpssx/kauafpssx/refs/heads/main/assets/sukuna.jpg" width="100%" />
 </p>
 
 <div align="center">
 
 # Kauã Ferreira
 
-<img src="https://komarev.com/ghpvc/?username=zKauaFerreira&label=views&style=flat&color=000000&labelColor=000000" />
+<img src="https://komarev.com/ghpvc/?username=kauafpssx&label=views&style=flat&color=000000&labelColor=000000" />
 
 <br>
 
