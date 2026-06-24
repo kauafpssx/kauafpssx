@@ -41,57 +41,136 @@ status:          Building performant and scalable systems
 <tr>
 
 <td align="center" width="10%">
-<img src="https://raw.githubusercontent.com/kauafpssx/kauafpssx/refs/heads/main/assets/nodedotjs-ffffff.svg" width="58"><br>
+<img src="https://icons.kauafpss.com.br/api/asset/nodedotjs.svg?color=ffffff" width="58">  
+
 Node.js
 </td>
 
 <td align="center" width="10%">
-<img src="https://raw.githubusercontent.com/kauafpssx/kauafpssx/refs/heads/main/assets/python-ffffff.svg" width="58"><br>
+<img src="https://icons.kauafpss.com.br/api/asset/python.svg?color=ffffff" width="58">  
+
 Python
 </td>
 
 <td align="center" width="10%">
-<img src="https://raw.githubusercontent.com/kauafpssx/kauafpssx/refs/heads/main/assets/react-ffffff.svg" width="58"><br>
+<img src="https://icons.kauafpss.com.br/api/asset/react.svg?color=ffffff" width="58">  
+
 React
 </td>
 
 <td align="center" width="10%">
-<img src="https://raw.githubusercontent.com/kauafpssx/kauafpssx/refs/heads/main/assets/rust-ffffff.svg" width="58"><br>
+<img src="https://icons.kauafpss.com.br/api/asset/rust.svg?color=ffffff" width="58">  
+
 Rust
 </td>
 
 <td align="center" width="10%">
-<img src="https://raw.githubusercontent.com/kauafpssx/kauafpssx/refs/heads/main/assets/sqlite-ffffff.svg" width="58"><br>
+<img src="https://icons.kauafpss.com.br/api/asset/sqlite.svg?color=ffffff" width="58">  
+
 SQLite
 </td>
 
 <td align="center" width="10%">
-<img src="https://raw.githubusercontent.com/kauafpssx/kauafpssx/refs/heads/main/assets/nextdotjs-ffffff.svg" width="58"><br>
+<img src="https://icons.kauafpss.com.br/api/asset/nextdotjs.svg?color=ffffff" width="58">  
+
 Next.js
 </td>
 
 <td align="center" width="10%">
-<img src="https://raw.githubusercontent.com/kauafpssx/kauafpssx/refs/heads/main/assets/tailwindcss-ffffff.svg" width="58"><br>
+<img src="https://icons.kauafpss.com.br/api/asset/tailwindcss.svg?color=ffffff" width="58">  
+
 Tailwind
 </td>
 
 <td align="center" width="10%">
-<img src="https://raw.githubusercontent.com/kauafpssx/kauafpssx/refs/heads/main/assets/tauri-ffffff.svg" width="58"><br>
+<img src="https://icons.kauafpss.com.br/api/asset/tauri.svg?color=ffffff" width="58">  
+
 Tauri
 </td>
 
 <td align="center" width="10%">
-<img src="https://raw.githubusercontent.com/kauafpssx/kauafpssx/refs/heads/main/assets/typescript-ffffff.svg" width="58"><br>
+<img src="https://icons.kauafpss.com.br/api/asset/typescript.svg?color=ffffff" width="58">  
+
 TypeScript
 </td>
 
 <td align="center" width="10%">
-<img src="https://raw.githubusercontent.com/kauafpssx/kauafpssx/refs/heads/main/assets/vite-ffffff.svg" width="58"><br>
+<img src="https://icons.kauafpss.com.br/api/asset/vite.svg?color=ffffff" width="58">  
+
 Vite
 </td>
 
 </tr>
 </table>
+
+# ⛯ SECONDARY STACK
+
+<table width="100%" style="table-layout: fixed;">
+<tr>
+
+<td align="center" width="10%">
+<img src="https://icons.kauafpss.com.br/api/asset/fastapi.svg?color=ffffff" width="58">  
+
+FastAPI
+</td>
+
+<td align="center" width="10%">
+<img src="https://icons.kauafpss.com.br/api/asset/prisma.svg?color=ffffff" width="58">  
+
+Prisma
+</td>
+
+<td align="center" width="10%">
+<img src="https://icons.kauafpss.com.br/api/asset/bun.svg?color=ffffff" width="58">  
+
+Bun
+</td>
+
+<td align="center" width="10%">
+<img src="https://icons.kauafpss.com.br/api/asset/githubactions.svg?color=ffffff" width="58">  
+
+Actions
+</td>
+
+<td align="center" width="10%">
+<img src="https://icons.kauafpss.com.br/api/asset/docker.svg?color=ffffff" width="58">  
+
+Docker
+</td>
+
+<td align="center" width="10%">
+<img src="https://icons.kauafpss.com.br/api/asset/java.svg?color=ffffff" width="58">  
+
+Java
+</td>
+
+<td align="center" width="10%">
+<img src="https://icons.kauafpss.com.br/api/asset/cplusplus.svg?color=ffffff" width="58">  
+
+C++
+</td>
+
+<td align="center" width="10%">
+<img src="https://icons.kauafpss.com.br/api/asset/postgresql.svg?color=ffffff" width="58">  
+
+Postgres
+</td>
+
+<td align="center" width="10%">
+<img src="https://icons.kauafpss.com.br/api/asset/redis.svg?color=ffffff" width="58">  
+
+Redis
+</td>
+
+<td align="center" width="10%">
+<img src="https://icons.kauafpss.com.br/api/asset/shadcnui.svg?color=ffffff" width="58">  
+
+shadcn/ui
+</td>
+
+</tr>
+</table>
+
 
 ---
 
