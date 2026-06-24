@@ -139,7 +139,7 @@ Docker
 </td>
 
 <td align="center" width="10%">
-<img src="https://icons.kauafpss.com.br/api/asset/java.svg?color=ffffff" width="58">  
+<img src="https://icons.kauafpss.com.br/api/asset/openjdk.svg?color=ffffff" width="58">  
 
 Java
 </td>
