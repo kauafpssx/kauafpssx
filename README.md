@@ -103,7 +103,7 @@ Vite
 </tr>
 </table>
 
-# ⛯ SECONDARY STACK
+# ⬢ SECONDARY STACK
 
 <table width="100%" style="table-layout: fixed;">
 <tr>
