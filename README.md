@@ -178,7 +178,7 @@ shadcn/ui
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=kauafpssx&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&area_color=000000&hide_border=false&border_color=ffffff" />
+<img width="100%" src="https://github-act-graph.rodriaum.com/graph?username=kauafpssx&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&area_color=000000&hide_border=false&border_color=ffffff" />
 
 </div>
 
